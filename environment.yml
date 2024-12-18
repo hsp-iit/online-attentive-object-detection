@@ -56,7 +56,7 @@ dependencies:
   - pyqt=5.9.2=py35h05f1152_2
   - python=3.5.6=hc3d631a_0
   - python-dateutil=2.8.1=py_0
-  - pytorch=0.4.1=py35_py27__9.0.176_7.1.2_2
+  - pytorch=0.4.1=py35ha74772b_0
   - pytz=2019.3=py_0
   - qt=5.9.6=h8703b6f_2
   - readline=7.0=h7b6447c_5
