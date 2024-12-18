@@ -1,4 +1,4 @@
-name: myenv
+name: venv-vtd
 channels:
   - conda-forge
   - anaconda
@@ -81,5 +81,5 @@ dependencies:
   - pip:
     - dlib==19.19.0
     - protobuf==3.7.0
-prefix: /home/eunji/anaconda3/envs/snakes
+prefix: /home/anaconda3/envs/
 
