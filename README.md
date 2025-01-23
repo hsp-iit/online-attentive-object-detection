@@ -11,14 +11,22 @@ The proposed dataset depicts human-robot interactions in a table-top scenario wh
 
 ![Screenshot from 2024-10-08 15-36-16](https://github.com/user-attachments/assets/b73ffefc-71c4-42ac-bedd-b96bc011aedb)
 
+## Download the dataset
+The dataset is stored on Zenodo (https://zenodo.org/records/14056210). Given the presence of sensitive data, it can be downloaded upon request. Please email the corresponding author for details.
+
 ## Requirements
 The following modules are required for the proposed pipeline. 
+
 ### OpenPose
 This is the requirement of _Human Attention Estimation_ pathway to detect anatomical key-points. Please follow the instructions provided in the [OpenPose repository](https://github.com/CMU-Perceptual-Computing-Lab/openpose) for proper installation.
+
 ### Online object detection
 This is the erequirement of _Object Detection_ pathway to detect objects. Please follow the instructions provided in the [Online detection repository](https://github.com/hsp-iit/online-detection) for proper installation.
+
 ## Citation
 To cite this paper:
+
+```
 @article{Hanifi2024,
   title={A pipeline for estimating human attention toward objects with on-board cameras on the iCub humanoid robot},
   author={Hanifi, Shiva and Maiettini, Elisa and Lombardi, Maria and Natale, Lorenzo},
@@ -28,3 +36,4 @@ To cite this paper:
   year={2024},
   publisher={Frontiers Media SA}
 }
+```
