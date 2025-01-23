@@ -18,4 +18,13 @@ This is the requirement of _Human Attention Estimation_ pathway to detect anatom
 ### Online object detection
 This is the erequirement of _Object Detection_ pathway to detect objects. Please follow the instructions provided in the [Online detection repository](https://github.com/hsp-iit/online-detection) for proper installation.
 ## Citation
-## License
+To cite this paper:
+@article{Hanifi2024,
+  title={A pipeline for estimating human attention toward objects with on-board cameras on the iCub humanoid robot},
+  author={Hanifi, Shiva and Maiettini, Elisa and Lombardi, Maria and Natale, Lorenzo},
+  journal={Frontiers in Robotics and AI},
+  volume={11},
+  pages={1346714},
+  year={2024},
+  publisher={Frontiers Media SA}
+}
